@@ -1,0 +1,4 @@
+# Generated
+.venv/
+__pycache__/
+*.py[oc]
